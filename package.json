@@ -1,0 +1,15 @@
+{
+  "name": "zoom-bot-discord",
+  "version": "1.0.0",
+  "description": "Zoom class bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon bot.js"
+  },
+  "author": "Akshat Gupta and Shubham",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  }
+}
