@@ -1,0 +1,76 @@
+{
+    "2coe30" : {
+        "monday" : [
+            { "link" : "CSED5",  "time-sub" : "8 - 9:40 Eng Design"  } ,
+            { "link": "CSED12",  "time-sub" : "9:40 - 11:20 Comp Networks"  } ,
+            { "link" : "CSED5",  "time-sub" : "11:20 - 1 DBMS"  } ,
+            { "link" : "mee01",   "time-sub" :"1:50 - 3:30 Man pro"  } ,
+            { "link" : "CSED3",   "time-sub" : "3:30 - 4:20 AI"  } ,
+            { "link": "CSED1",  "time-sub" : "4:20 - 5:10 DBMS"  } 
+        ],  
+        "tuesday" : [
+            {"link" : "csed4",  "time-sub" : "8 - 8:50 Design Algo" } ,
+            {"link": "eied5",  "time-sub" : "8:50 - 9:40 Mesrmnt. Sci. Tech." } ,
+            {"link" : "CSED2", "time-sub" : "9:40 - 10:30 AI" } ,
+            {"link" : "ECED11",   "time-sub" :"10:30 - 12:10 Eng Design" } 
+        ],
+        "wednesday" : [
+            {"link" : "csed4",  "time-sub" : "8 - 8:50 Design Algo" } ,
+            {"link": "eied5",  "time-sub" : "8:50 - 9:40 Mesrmnt. Sci. Tech." } ,
+            {"link" : "CSED10", "time-sub" : "9:40 - 10:30 DBMS" } ,
+            {"link" : "CSED15",   "time-sub" :"10:30 - 12:10 Design Algo" } 
+        ],
+        "thursday" : [
+            {"link" : "csed8",  "time-sub" : "8 - 8:50 Design Algo" } ,
+            {"link": "eied13",  "time-sub" : "8:50 - 9:40 Mesrmnt. Sci. Tech." } ,
+            {"link" : "mee02", "time-sub" : "1:50 - 2:40 Man Pro" } ,
+            {"link" : "CSED6",   "time-sub" :"2:40 - 3:30 Comp Network" },
+            {"link" : "CSED3",   "time-sub" :"3:30 - 4:20 AI" },
+            {"link" : "CSED1",   "time-sub" :"4:20 - 5:10 Eng Design" }  
+        ],
+        "friday" : [
+            {"link" : "eied13",  "time-sub" : "8 - 9:40  Mesrmnt. Sci. Tech." } ,
+            {"link": "mee02",  "time-sub" : "9:40 - 10:30 Man Pro" } ,
+            {"link" : "CSED6", "time-sub" : "10:30 - 11:20 Comp Network" } ,
+            {"link" : "CSED5",   "time-sub" :"11:20 - 12:10 DBMS" },
+            {"link" : "CSED6",   "time-sub" :"1 - 2:40 AI" }
+        ]
+    },
+    "2coe29" : {
+        "monday" : [
+            { "link" : "CSED3",  "time-sub" : "8 - 9:40 Eng Design (P)"  } ,
+            { "link": "CSED3",  "time-sub" : "9:40 - 11:20 Comp Networks (P)"  } ,
+            { "link" : "CSED11",  "time-sub" : "11:20 - 1 DBMS (P)"  } ,
+            { "link" : "mee01",   "time-sub" :"1:50 - 3:30 Man pro"  } ,
+            { "link" : "CSED3",   "time-sub" : "3:30 - 4:20 AI"  } ,
+            { "link": "CSED1",  "time-sub" : "4:20 - 5:10 DBMS"  } 
+        ],  
+        "tuesday" : [
+            {"link" : "csed4",  "time-sub" : "8 - 8:50 Design Algo" } ,
+            {"link": "eied5",  "time-sub" : "8:50 - 9:40 Mesrmnt. Sci. Tech." } ,
+            {"link" : "CSED2", "time-sub" : "9:40 - 10:30 AI" } 
+        ],
+        "wednesday" : [
+            {"link" : "csed4",  "time-sub" : "8 - 8:50 Design Algo" } ,
+            {"link": "eied7",  "time-sub" : "8:50 - 9:40 Mesrmnt. Sci. Tech." } ,
+            {"link" : "CSED10", "time-sub" : "9:40 - 10:30 DBMS" } ,
+            {"link" : "csed16",   "time-sub" :"10:30 - 12:10 Design Algo (P)" } 
+        ],
+        "thursday" : [
+            {"link" : "csed8",  "time-sub" : "8 - 8:50 Design Algo" } ,
+            {"link": "eied13",  "time-sub" : "8:50 - 9:40 Mesrmnt. Sci. Tech." } ,
+            {"link" : "ECED12",   "time-sub" :"10:30 - 12:10 Eng Design (P)" },
+            {"link" : "mee02", "time-sub" : "1:50 - 2:40 Man Pro" } ,
+            {"link" : "CSED6",   "time-sub" :"2:40 - 3:30 Comp Network" },
+            {"link" : "CSED3",   "time-sub" :"3:30 - 4:20 AI" },
+            {"link" : "CSED1",   "time-sub" :"4:20 - 5:10 Eng Design" }  
+        ],
+        "friday" : [
+            {"link" : "eied2",  "time-sub" : "8 - 9:40  Mesrmnt. Sci. Tech. (P)" } ,
+            {"link": "mee02",  "time-sub" : "9:40 - 10:30 Man Pro" } ,
+            {"link" : "CSED6", "time-sub" : "10:30 - 11:20 Comp Network" } ,
+            {"link" : "CSED5",   "time-sub" :"11:20 - 12:10 DBMS" },
+            {"link" : "CSED2",   "time-sub" :"1 - 2:40 AI (P)" }
+        ]
+    }
+}
