@@ -4,7 +4,7 @@
   "description": "Zoom class bot",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon bot.js"
+    "start": "node bot.js"
   },
   "author": "Akshat Gupta and Shubham",
   "license": "ISC",
