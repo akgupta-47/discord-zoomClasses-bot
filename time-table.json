@@ -72,5 +72,42 @@
             {"link" : "CSED5",   "time-sub" :"11:20 - 12:10 DBMS" },
             {"link" : "CSED2",   "time-sub" :"1 - 2:40 AI (P)" }
         ]
+    },
+    "2coe3" : {
+        "monday" : [
+            { "link" : "CSED8",  "time-sub" : "8 - 8:50 DBMS"  } ,
+            { "link": "eied1",  "time-sub" : "8:50 - 9:40 Mesrmnt. Sci. Tech."  } ,
+            { "link" : "CSED8",  "time-sub" : "9:40 - 10:30 AI"  } ,
+            { "link" : "CSED8",   "time-sub" :"10:30 - 11:20 Design Algo"  } ,
+            { "link" : "CSED8",   "time-sub" : "1:50 - 3:30 Design Algo Lab"  } ,
+            { "link": "eied1",  "time-sub" : "3:30 - 5:10 Mesrmnt. Sci. Tech. Lab"  }
+        ],
+        "tuesday" : [
+            {"link": "CSED8",  "time-sub" : "8:50 - 9:40 DBMS" } ,
+            {"link" : "CSED8", "time-sub" : "9:40 - 10:30 Comp Network" } ,
+            {"link" : "mee01",   "time-sub" :"10:30 - 11:20 Man Pro" },
+            {"link" : "eied2",  "time-sub" : "11:20 - 12:10 Mesrmnt. Sci. Tech." },
+            {"link" : "CSED6",  "time-sub" : "3:30 - 5:10 DBMS Lab" }
+        ],
+        "wednesday" : [
+            {"link": "CSED8",  "time-sub" : "8:50 - 9:40 AI" } ,
+            {"link" : "CSED8", "time-sub" : "9:40 - 10:30 Design Algo" } ,
+            {"link" : "eied2",   "time-sub" :"10:30 - 11:20 Mesrmnt. Sci. Tech." },
+            {"link" : "CSED8",  "time-sub" : "11:20 - 12:10 ED" } ,
+            {"link" : "CSED8",  "time-sub" : "2:40 - 4:20 AI Lab" },
+            {"link" : "eced11",  "time-sub" : "4:20 - 6:00 ED Lab" }
+        ],
+        "thursday" : [
+            {"link" : "mee01", "time-sub" : "1:50 - 3:30 Man Pro Lab" } ,
+            {"link" : "CSED9",   "time-sub" :"3:30 - 4:20 AI" },
+            {"link" : "CSED9",   "time-sub" :"4:20 - 5:10 Design Algo" }
+        ],
+        "friday" : [
+            {"link" : "CSED8",  "time-sub" : "8 - 9:40  ED Lab" } ,
+            {"link" : "mee01", "time-sub" : "10:30 - 11:20 Man Pro" } ,
+            {"link" : "CSED8",   "time-sub" :"11:20 - 12:10 DBMS" },
+            {"link" : "CSED8",   "time-sub" :"12:10 - 1:00 Computer Network" },
+            {"link" : "CSED2",   "time-sub" :"1 - 2:40 Comp Network Lab" }
+        ]
     }
 }
